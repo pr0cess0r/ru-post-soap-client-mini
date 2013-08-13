@@ -1,4 +1,6 @@
 ru-post-soap-client-mini
 ========================
 
-ru post soap client mini
+Клиент для SOAP API Почты России
+
+Минимальный код: запрос
